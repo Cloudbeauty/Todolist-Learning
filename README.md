@@ -1,6 +1,6 @@
 # todolist
-
-> A Vue.js project
+> 简单使用vue 2.0开发todolist
+> 存在BUG 有待完善
 
 ## Build Setup
 
